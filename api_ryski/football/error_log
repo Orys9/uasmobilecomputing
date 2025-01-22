@@ -1,0 +1,58 @@
+[09-Jan-2025 13:33:59 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'email' in 'field list' in /home/teky6584/public_html/project_api/api_ryski/football/register.php:30
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_ryski/football/register.php(30): mysqli_query()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_ryski/football/register.php on line 30
+[14-Jan-2025 12:44:07 Asia/Jakarta] Data diterima: 
+[14-Jan-2025 12:51:04 Asia/Jakarta] Data diterima: 
+[14-Jan-2025 14:22:31 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'order clause' in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php:8
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_ryski/football/get_match.php(8): mysqli->query()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php on line 8
+[14-Jan-2025 14:23:49 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'order clause' in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php:8
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_ryski/football/get_match.php(8): mysqli->query()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php on line 8
+[14-Jan-2025 14:27:03 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'order clause' in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php:8
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_ryski/football/get_match.php(8): mysqli->query()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php on line 8
+[14-Jan-2025 14:27:38 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'order clause' in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php:8
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_ryski/football/get_match.php(8): mysqli->query()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php on line 8
+[14-Jan-2025 14:28:33 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'order clause' in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php:8
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_ryski/football/get_match.php(8): mysqli->query()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php on line 8
+[14-Jan-2025 14:28:48 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'order clause' in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php:8
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_ryski/football/get_match.php(8): mysqli->query()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php on line 8
+[14-Jan-2025 14:30:13 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'created_at' in 'order clause' in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php:8
+Stack trace:
+#0 /home/teky6584/public_html/project_api/api_ryski/football/get_match.php(8): mysqli->query()
+#1 {main}
+  thrown in /home/teky6584/public_html/project_api/api_ryski/football/get_match.php on line 8
+[14-Jan-2025 15:03:29 Asia/Jakarta] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/teky6584/public_html/project_api/api_ryski/football/edit_player.php on line 2
+[14-Jan-2025 15:03:29 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/teky6584/public_html/project_api/api_ryski/football/edit_player.php on line 2
+[14-Jan-2025 15:03:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_ryski/football/edit_player.php on line 6
+[14-Jan-2025 15:03:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_ryski/football/edit_player.php on line 7
+[14-Jan-2025 15:03:29 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/teky6584/public_html/project_api/api_ryski/football/edit_player.php on line 8
+[14-Jan-2025 15:03:29 Asia/Jakarta] PHP Warning:  Undefined variable $conn in /home/teky6584/public_html/project_api/api_ryski/football/edit_player.php on line 11
+[14-Jan-2025 15:03:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/teky6584/public_html/project_api/api_ryski/football/edit_player.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/teky6584/public_html/project_api/api_ryski/football/edit_player.php on line 11
+[19-Jan-2025 14:23:43 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/teky6584/public_html/project_api/api_ryski/football/register.php on line 10
+[19-Jan-2025 14:23:43 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home/teky6584/public_html/project_api/api_ryski/football/register.php on line 11
+[19-Jan-2025 14:23:43 Asia/Jakarta] PHP Warning:  Undefined array key "email" in /home/teky6584/public_html/project_api/api_ryski/football/register.php on line 12
+[19-Jan-2025 14:23:43 Asia/Jakarta] PHP Warning:  Undefined array key "phone" in /home/teky6584/public_html/project_api/api_ryski/football/register.php on line 13
+[19-Jan-2025 18:58:55 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home/teky6584/public_html/project_api/api_ryski/football/login.php on line 10
+[19-Jan-2025 18:58:55 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home/teky6584/public_html/project_api/api_ryski/football/login.php on line 11
